@@ -356,8 +356,26 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "A_Assembly",
+      "C_Capacitor",
+      "D_Diode",
+      "L_Inductor",
+      "N_NonPart",
+      "Q_MOSFET",
+      "R_Resistor",
+      "U_IC"
+    ],
+    "pinned_symbol_libs": [
+      "C_Capacitor",
+      "L_Inductor",
+      "Q_BJT",
+      "Q_MOSFET",
+      "R_Resistor",
+      "U_Driver",
+      "U_Power",
+      "U_Transceiver"
+    ]
   },
   "meta": {
     "filename": "Engine.kicad_pro",
