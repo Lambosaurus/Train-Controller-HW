@@ -8,3 +8,5 @@ switch_machine/psu_block/
 switch_machine/switch_machine-backups/
 
 fp-info-cache
+
+Controller/Controller-backups/
